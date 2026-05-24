@@ -1,1 +1,3 @@
-I'm now trying to pull from remote repo. 
+I'm now trying to pull from remote repo.
+
+And this is for switching to a new branch
